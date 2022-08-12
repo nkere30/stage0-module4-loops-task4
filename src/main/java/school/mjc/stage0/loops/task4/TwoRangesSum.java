@@ -20,8 +20,8 @@ public class TwoRangesSum {
         } else if(numberToSkip > lastInRow) {
             System.out.println("number to skip is bugger then the last");
         } else {
-            System.out.println("skipped sum is number " + skippedSum);
-            System.out.println("counted sum is number " + countedSum);
+            System.out.println("skipped sum is " + skippedSum);
+            System.out.println("counted sum is " + countedSum);
         }
     }
 
